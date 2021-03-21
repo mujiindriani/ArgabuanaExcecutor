@@ -1,0 +1,80 @@
+.menu{
+	width: 20%;
+	float: left;
+	background-color: #D5D5D5;
+	height: 40rem;
+}
+.logo{
+	margin: 5% 25%;
+}
+.list{
+	margin: 10px 20px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+}
+ a:hover{
+	color: rgb(17, 17, 20);
+}
+
+.home{
+	width: 80%;
+	float: left;
+	background-color: rgb(52, 52, 87);
+	height: 35rem;
+}
+
+.title{
+	color: #D5D5D5;
+	margin: 30px 20px;
+}
+.page{
+	margin-left: 12%;
+	margin-right: 12%;
+	width: 75%;
+	height: 25rem;
+	background-color: #D5D5D5;
+	align-items: center;
+	overflow: auto;
+}
+table, th, td{
+	font-size: 20px;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+th{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+.laut{
+	text-align: left;
+	background-color: black;
+	color: white;
+	padding-left: 5px;
+}
+td{
+	padding: 5px;
+}
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+.nLaut{
+	width: 25%;
+	
+}
+.tanggal{
+	width: 25%;
+}
+.pelanggaran{
+	width: 50%;
+}
+.footer{
+	height: 40rem;
+	background-color: #D5D5D5;
+	color: #D5D5D5;
+}

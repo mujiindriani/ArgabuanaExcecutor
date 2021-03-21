@@ -1,0 +1,86 @@
+.menu{
+    width: 700 px;
+    height: 2000 px;
+	float: left;
+	background-color: #D5D5D5;
+	height: 40rem;
+}
+.logo{
+	margin: 5% 25%;
+}
+.list{
+	margin: 10px 20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+}
+a:hover{
+	color: blue;
+}
+
+.home{
+    width: 70%;
+    height: 950 px;
+	float: right;
+	background-color: rgb(52, 52, 87);
+	height: 40rem;
+}
+
+.title{
+	color: #D5D5D5;
+	margin: 50px 20px;
+}
+.page{
+	margin-top: 20px ;
+	margin-left: 12%;
+	margin-right: 12%;
+	width: 75%;
+	height: 25rem;
+	background-color: #D5D5D5;
+	align-items: center;
+	overflow: auto;
+}
+table, th, td{
+	font-size: 20px;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+th{
+	text-align: center;
+	background-color: white;
+	color: white;
+
+}
+td{
+	padding: 5px;
+}
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+.cuaca{
+    font-size: 22px;
+    text-align: left;
+}
+
+.footer{
+	height: 43rem;
+	background-color: #D5D5D5;
+	color: #D5D5D5;
+}
+
+.peta{
+    margin: 50% 100%;
+    float: left;
+    
+}
+
+body {
+    background: #000035;
+	float: left;
+	height: 100%;
+	width: 75%;
+}

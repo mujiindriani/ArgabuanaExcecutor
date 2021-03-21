@@ -1,0 +1,94 @@
+.menu{
+	width: 20%;
+	float: left;
+	background-color: #D5D5D5;
+	height: 40rem;
+}
+.logo{
+	margin: 5% 25%;
+}
+.list{
+	margin: 10px 20px;
+}
+.link{
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+}
+.link:hover{
+	color: blue;
+}
+
+.home{
+	width: 80%;
+	float: left;
+	background-color: rgb(52, 52, 87);
+	height: 40rem;
+}
+
+.title{
+	color: #D5D5D5;
+	margin: 50px 20px;
+}
+.page{
+	margin-top: 20px ;
+	margin-left: 12%;
+	margin-right: 12%;
+	width: 75%;
+	height: 25rem;
+	background-color: #D5D5D5;
+	align-items: center;
+	overflow: auto;
+}
+table, th, td{
+	font-size: 20px;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+th{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+.kapal{
+	text-align: left;
+	background-color: black;
+	color: white;
+	padding-left: 5px;
+}
+td{
+	padding: 5px;
+}
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+.pelni{
+	font-size: 22px;
+}
+dd{
+	font-size: 20px;
+}
+.rute{
+	width: 40%;
+	
+}
+.berangkat{
+	width: 30%;
+}
+.tiba{
+	width: 30%;
+}
+
+
+.navbar {
+	opacity: 0.4;
+	filter: alpha(opacity=40); /* For IE8 and earlier */
+  }
+  
+  .navbar:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100); /* For IE8 and earlier */
+  }
+  
